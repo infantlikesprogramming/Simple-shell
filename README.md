@@ -11,8 +11,8 @@ This program acts as a simple shell:
 *Note: Not all commands will run. The implementation of the shell is very basic, using execvp() to run commands.
 
 ## How to run (for beginner programmers):  
-1. Compile and run the program: `gcc -o simple-shell simple-shell.c && ./simple-shell`  
-2. Or just run compiled program: `./simple-shell`
+1. Compile and run the program: `gcc -o shell simple-shell.c && ./shell`  
+2. Or just run compiled program: `./shell`
 
 ## Test commands:  
 1. `pwd` (output full path name of the current directory)  
