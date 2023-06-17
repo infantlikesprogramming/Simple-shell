@@ -1,6 +1,7 @@
 # Simple-shell
 This program acts as a simple shell:
-It can receive and execute Linux commands (with arguments)
+
+It can receive and execute Linux commands (with arguments)\n
 Pipe and IO redirection features: It provides pipe ("|") or IO redirection ("<" or ">") features 
 However, only one of these features can be used per command, and at one time only per command (i.e. there may not be two pipes, or a pipe and an IO redirection in the same command). 
 History feature: To execute the most recent command, simply enter "!!" 
