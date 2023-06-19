@@ -1,5 +1,7 @@
 # Simple-shell
 
+This is programming project 1 in chapter 3 of the book Operating system concepts 10th ed (Silberschatz, Galvin, and Gagne)
+
 This program acts as a simple shell:  
 1. It can receive and execute Linux commands (with arguments)  
 2. Pipe and IO redirection features: It provides pipe (`!`) or IO redirection (for one file only) (`<` or `>`) features  
